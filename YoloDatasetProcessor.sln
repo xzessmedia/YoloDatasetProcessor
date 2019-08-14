@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoloDatasetProcessor", "YoloDatasetProcessor\YoloDatasetProcessor.csproj", "{6099BEEE-6FDD-4463-9319-77BC93AF593F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6099BEEE-6FDD-4463-9319-77BC93AF593F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6099BEEE-6FDD-4463-9319-77BC93AF593F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6099BEEE-6FDD-4463-9319-77BC93AF593F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6099BEEE-6FDD-4463-9319-77BC93AF593F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9752491-6C7C-44A6-8C2B-3E20A89878A2}
+	EndGlobalSection
+EndGlobal
